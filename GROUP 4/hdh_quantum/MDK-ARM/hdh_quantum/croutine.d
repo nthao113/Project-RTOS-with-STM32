@@ -1,0 +1,14 @@
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+hdh_quantum\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hdh_quantum\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hdh_quantum\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+hdh_quantum\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

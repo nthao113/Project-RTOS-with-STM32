@@ -1,0 +1,15 @@
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+encoder\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+encoder\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+encoder\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+encoder\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+encoder\queue.o: ../Core/Inc/FreeRTOSConfig.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+encoder\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

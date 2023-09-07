@@ -1,0 +1,12 @@
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+hdh_quantum\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+hdh_quantum\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hdh_quantum\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hdh_quantum\list.o: ../Core/Inc/FreeRTOSConfig.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+hdh_quantum\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
